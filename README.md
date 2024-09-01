@@ -1,3 +1,7 @@
-## <center> Never give up🔥 포기하지 않는 개발자 배성욱입니다. </center>
+<p align="center">
+  <strong>Never give up🔥 포기하지 않는 개발자 배성욱입니다.</strong>
+</p>
 
-# <center> 🧑‍💻Tech Stack </center>
+<p align="center">
+  <strong>🧑‍💻Tech Stack</strong>
+</p>
