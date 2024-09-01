@@ -4,7 +4,7 @@
   <strong>🧑‍💻Tech Stack</strong>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; width: 100%;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
