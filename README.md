@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome!-nl-SungUk's%20Github.&fontSize=90&animation=fadeIn)
-<p align="center">
-  <h2>🧑‍💻Tech Stack</h2>
-</p>
+<h2 align="center">
+  <strong>🧑‍💻Tech Stack</strong>
+</h2>
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=Java&logoColor=white">
