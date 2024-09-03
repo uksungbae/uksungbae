@@ -1,5 +1,4 @@
-<p align="center">Never give up🔥 포기하지 않는 개발자 배성욱입니다.</p>
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20SungUk's%20page!&fontSize=90)
 <p align="center">
   <strong>🧑‍💻Tech Stack</strong>
 </p>
