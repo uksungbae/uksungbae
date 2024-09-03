@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome!-nl-SungUk's%20page.&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome!-nl-SungUk's%20page.&fontSize=90&animation=fadeIn)
 <p align="center">
   <strong>🧑‍💻Tech Stack</strong>
 </p>
