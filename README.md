@@ -18,4 +18,5 @@
 </h2>
 <p align = "center">
 제6회 K 디지털트레이닝 해커톤 자유부문 - 장관상(🥇최우수상)
+<a href="https://github.com/SKTDanbee">🔗 프로젝트 상세 보기</a>
 </p>
